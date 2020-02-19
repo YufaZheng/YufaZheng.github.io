@@ -8,7 +8,7 @@
       <p><b>地址：浙江省宁波市鄞州区邱隘镇盛莫路1519号浙江万里学院</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照.png" width="100%">      % 插入证件照代码
+      <img src="/证件照.png" width="100%">      
     </td>
   </tr>
 </table>
